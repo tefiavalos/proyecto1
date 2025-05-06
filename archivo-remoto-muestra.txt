@@ -1,1 +1,1 @@
-"un texto en local"
+un texto en local
